@@ -1,0 +1,5 @@
+# JBangHub Catalog for Debezium
+
+This is a catalog of JBang scripts for Debezium.
+
+Curated and created by the community.
