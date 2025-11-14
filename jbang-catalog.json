@@ -3,8 +3,8 @@
         "capturing":{
             "file-refs": {
                 "{basename}.java": "templates/capturing.java.qute"
-            }
-        },
-        "description": "Simple Debezium Capturing script"
+            },
+            "description": "Simple Debezium Capturing script"
+        }
     }
 }
