@@ -2,7 +2,7 @@
     "templates": {
         "capturing":{
             "file-refs": {
-                "{basename}.java": "templates/capturing.java.qute",
+                "{filename}": "templates/capturing.java.qute",
                 "docker-compose.yaml": "templates/docker-compose.yaml",
                 "init.sql": "templates/init.sql",
                 "application.properties": "templates/application.properties"
