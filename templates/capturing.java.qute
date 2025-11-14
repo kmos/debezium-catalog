@@ -18,9 +18,9 @@ import io.quarkus.runtime.Quarkus;
 import jakarta.enterprise.context.ApplicationScoped;
 
 @ApplicationScoped
-public class {initFile} {
+public class {baseName} {
 
-    private final Logger logger = LoggerFactory.getLogger(debezium.class);
+    private final Logger logger = LoggerFactory.getLogger({baseName}.class);
 
     public static void main(String[] args) {
         Quarkus.run();
